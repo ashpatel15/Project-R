@@ -3,4 +3,4 @@
 
 To start the project 
 
-$ Yarn ios OR yarn android 
+$ yarn ios OR yarn android 
