@@ -3,8 +3,8 @@
 
 To start the project 
 
-'''$ yarn ios'''
+```$ yarn ios```
 
 OR
 
-'''$ yarn android'''
+```$ yarn android```
