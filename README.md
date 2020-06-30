@@ -3,4 +3,8 @@
 
 To start the project 
 
-$ yarn ios OR yarn android 
+'''$ yarn ios'''
+
+OR
+
+'''$ yarn android'''
